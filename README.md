@@ -10,3 +10,5 @@ Using intents in the app one can do the following:
 ---> Detect text from images and media that acts like an OCR
 
 ---> Detect objects from images using camera or from gallery and also prints confidence level for every object.
+
+One can use the same app for multiple purposes and utilize the ml kit to the maximum!
